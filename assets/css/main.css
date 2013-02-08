@@ -1,0 +1,80 @@
+body{
+  text-align: center;
+  font-style: "Arial";
+  background-color: rgba(111,111,111,0.2);
+}
+
+.container{
+  background-color: rgba(255,255,255,0.9);
+
+}
+
+.logo img{
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.navbar{
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  font-size: 12pt;
+}
+.navbar h2{
+  font-weight: normal;
+}
+
+.center{
+  text-align: center;
+}
+
+table{
+  line-height: 250%;
+  font-size: 18pt;
+}
+
+.add-bottom{
+  margin-bottom: 20px;
+}
+
+a{
+  text-decoration: none !important;
+  font-size: 25pt;
+}
+
+.main-content{
+  min-height: 600px;
+  padding-top: 20px;
+}
+
+.code-input{
+
+font-size: 30pt !important;
+height: 70px !important;
+}
+
+.code-legend{
+  font-size: 30pt !important;
+  font-weight: bolder;
+  height: 70px;
+}
+
+.btn-submit{
+  font-size: 30pt !important;
+  height:70px !important;
+}
+
+.result{
+  font-size: 30pt;
+  font-weight: bolder;
+}
+
+
+.present{
+  background-color: #E2E2C5;
+ 
+}
+
+.none{
+  background-color: #FCC;
+}
